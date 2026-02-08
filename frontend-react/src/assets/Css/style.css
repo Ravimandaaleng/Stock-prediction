@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(40, 39, 39);
+}
+
+.bg-light-dark{
+    background-color: rgb(76, 71, 71);
+}
+
+#root{
+    display: flex;
+    flex-direction: column;
+}
+.container{
+    flex: 1;
+}
