@@ -187,3 +187,12 @@ thumb
 sketch
 
 # End of https://www.toptal.com/developers/gitignore/api/django,react
+# Auth routing files
+frontend-react/src/PrivateRoute.jsx
+frontend-react/src/PublicRoutes.jsx
+
+# Axios instance
+frontend-react/src/axiosinstance.jsx
+
+# Dashboard component
+frontend-react/src/components/dashboard/Dashboard.jsx
